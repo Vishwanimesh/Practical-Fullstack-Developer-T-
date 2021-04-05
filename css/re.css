@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-image:url(site-bg.png)}
+#my{
+ 
+  color:#00F;
+
+}
+#red{
+ 
+  color:#F00;
+  font-size:24px;
+  
+
+}
+#cent
+{
+	alignment-adjust:central;
+	
+}

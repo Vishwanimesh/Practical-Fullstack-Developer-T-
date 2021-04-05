@@ -1,0 +1,26 @@
+
+@charset "utf-8";
+/* CSS Document */
+body{background-image:url(df.jpg)}
+
+div.scrollmenu {
+  background-color:#FFF;
+  overflow: auto;
+  white-space: nowrap;}
+  
+div.scrollmenu {
+  background-color:#FFF;
+  overflow: auto;
+  white-space: nowrap;
+}
+div.scrollmenu a:hover {
+  background-color: #F00;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: #000;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
