@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Vishwa Login </title>
-    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="style.css" type="text/css">
     
      <!-- Bootstrap Start -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
